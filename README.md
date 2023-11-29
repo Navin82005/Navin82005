@@ -1,13 +1,15 @@
 <div class="about-div">
         <h3 align="center" class="AboutMe">ABOUT ME</h3>
-        <ul>
-            <li style="color:#20C20E;font-family:'Roboto Mono',monospace;list-style-type: none;padding: 5px 0;transition: 0.2s;" class="li1">I am presently engaged in <b>EduMatricsPro</b></li>
-            <li class="li2">I am presently acquiring new skills about <b>Flutter</b></li>
-            <li class="li3">Information at your disposal <b>React, Django</b></li>
-            <li class="li4">Contact Via Email(<b>navin82005@gmail.com</b>)</li>
-            <li class="li5">I love Programming cause <b>It is the art of teaching a machine to perform tricks that only
-                    exist in the mind.</b></li>
-        </ul>
+               ✍️ I am presently engaged in <b>'EduMatricsPro';</b>
+                <hr/>
+               📝 I am presently acquiring new skills about <b>'Flutter';</b>
+                <hr />
+               🖇️ Information at your disposal <b>'React', 'Django';</b>
+                <hr />
+                📨 Contact Via Email(<b>'navin82005@gmail.com'</b>);
+                <hr />
+                ❤️ I love Programming cause <b>'It is the art of teaching a machine to perform tricks that only
+                    exist in the mind.';</b>
     </div>
     <br />
 <h3 align="center" class="LanguagesandTools">Languages and Tools</h3>
@@ -49,6 +51,7 @@
                 src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"
                 alt="navin82005" /></p>
         <p>
+                <hr />
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&"
                 alt="navin82005" />
         </p>

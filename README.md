@@ -2,15 +2,20 @@
         <h3 align="center" class="AboutMe">ABOUT ME</h3>
                ✍️ I am presently engaged in <b>EduMatricsPro;</b>
                 <br/>
+                <br />
                📝 I am presently acquiring new skills about <b>Flutter;</b>
+                <br />
                 <br />
                🖇️ Information at your disposal <b>'React', Django;</b>
                 <br />
+                <br />
                 📨 Contact Via Email(<b>navin82005@gmail.com</b>);
+                <br />
                 <br />
                 ❤️ I love Programming cause <b>'It is the art of teaching a machine to perform tricks that only
                     exist in the mind.';</b>
     </div>
+    <br />
     <br />
 <h3 align="center" class="LanguagesandTools">Languages and Tools</h3>
 <br />

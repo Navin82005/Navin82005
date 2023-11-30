@@ -1,13 +1,13 @@
 <div class="about-div">
         <h3 align="center" class="AboutMe">ABOUT ME</h3>
                ✍️ I am presently engaged in <b>EduMatricsPro;</b>
-                <hr/>
+                <br/>
                📝 I am presently acquiring new skills about <b>Flutter;</b>
-                <hr />
+                <br />
                🖇️ Information at your disposal <b>'React', Django;</b>
-                <hr />
+                <br />
                 📨 Contact Via Email(<b>navin82005@gmail.com</b>);
-                <hr />
+                <br />
                 ❤️ I love Programming cause <b>'It is the art of teaching a machine to perform tricks that only
                     exist in the mind.';</b>
     </div>

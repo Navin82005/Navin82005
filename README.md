@@ -1,4 +1,4 @@
-<div class="about-div" align="center">
+<div class="about-div">
         <h3 align="center" class="AboutMe">ABOUT ME</h3>
                ✍️ I am presently engaged in <b>EduMatricsPro;</b>
                 <hr/>

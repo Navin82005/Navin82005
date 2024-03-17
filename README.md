@@ -70,13 +70,14 @@
 <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"
         alt="navin82005" />
+    
 </div>
 <hr />
-<div align="center">
+<!-- <div align="center">
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Navin82005&show_icons=true&locale=en&layout=compact"
         alt="Navin82005" />
-</div>
+</div> -->
 <hr />
 <div align="center">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&" alt="navin82005" />

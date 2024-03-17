@@ -70,12 +70,12 @@
         <img style="display: block;" align="left" src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"
             alt="navin82005" />
     </div> -->
-    <div style="display: block;" align="center">
+    <div style="display: block;" align="left">
         <img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=Navin82005&show_icons=true&locale=en&layout=compact"
             alt="Navin82005" />
     </div>
-    <div align="center" style="display: block;">
+    <div align="right" style="display: block;">
         <img align="left" style="display: block !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&" alt="navin82005" />
     </div>
     <br />

@@ -63,21 +63,12 @@
     </a>
 </div>
 <hr />
-<div class="AboutMe" style="display: block !important;">
-    <h3 align="center">Git-Hub Stats</h3>
-    <br />
-<!--     <div align="center">
-        <img style="display: block;" align="left" src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"
-            alt="navin82005" />
-    </div> -->
-    <div style="display: block;" align="left">
-        <img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=Navin82005&show_icons=true&locale=en&layout=compact"
-            alt="Navin82005" />
-    </div>
-    <div align="right" style="display: block;">
-        <img align="left" style="display: block !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&" alt="navin82005" />
-    </div>
-    <br />
-    <br />
+<h3 align="center">🚀 My Streaks & Contributions /></h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rahulnisanth&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###

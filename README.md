@@ -64,11 +64,6 @@
 </div>
 <hr />
 <h3 align="center">🚀 My Streaks & Contributions /></h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rahulnisanth&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=navin82005&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###

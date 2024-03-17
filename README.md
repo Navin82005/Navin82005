@@ -78,8 +78,8 @@
 <hr />
 <div align="center">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&" alt="navin82005" />
+    <hr align="left" />
 </div>
-<hr />
 <br />
 <br />
 </div>

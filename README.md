@@ -69,8 +69,8 @@
 <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"
         alt="navin82005" />
+<hr />
 </div>
-<!-- <hr /> -->
 <!-- <div align="center">
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Navin82005&show_icons=true&locale=en&layout=compact"

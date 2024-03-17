@@ -1,5 +1,4 @@
 ![Banner Image](https://github.com/Navin82005/Navin82005/blob/main/github-banner.png)
-
 <div class="about-div">
     <h1 align="center">Hai there 👋, Iam Naveen N</h1>
     <div>
@@ -70,9 +69,8 @@
 <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"
         alt="navin82005" />
-    
 </div>
-<hr />
+<!-- <hr /> -->
 <!-- <div align="center">
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Navin82005&show_icons=true&locale=en&layout=compact"

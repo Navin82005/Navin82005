@@ -24,9 +24,9 @@
     <li>📨 Contact Via Email(<b>navin82005@gmail.com</b>);</li>
     <br />
     <li>❤️ I love Programming cause <b>'It is the art of teaching a machine to perform tricks that only
-        exist in the mind.';</b></li>
+            exist in the mind.';</b></li>
     <br />
-    <li>🌎 Personal Domain <a href="https://navin82005.github.io/portfolio/">Naveen82005</a></li>
+    <li>🌎 Personal Domain <a target="_blank" href="https://navin82005.github.io/portfolio/">Naveen82005</a></li>
 </div>
 <hr />
 <h3 align="center" class="LanguagesandTools">Languages and Tools</h3>
@@ -68,11 +68,15 @@
 <br />
 <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"
-            alt="navin82005" />
+        alt="navin82005" />
 </div>
+<hr />
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Navin82005&show_icons=true&locale=en&layout=compact" alt="Navin82005" />
+    <img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Navin82005&show_icons=true&locale=en&layout=compact"
+        alt="Navin82005" />
 </div>
+<hr />
 <div align="center">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&" alt="navin82005" />
 </div>

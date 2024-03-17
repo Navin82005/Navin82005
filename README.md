@@ -1,6 +1,14 @@
 <div class="about-div">
   <h1 align="center">Hai there 👋, Iam Naveen N</h1>
-  <p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=navin82005&label=Profile%20views&color=0e75b6&style=flat" alt="navin82005" /> <div align="right">Connect with me in <a href="https://www.linkedin.com/in/naveenn82005"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen82005/" height="30" width="40" /></a></p></div>
+  <div>
+    <p align="left">
+      <img align="left" src="https://komarev.com/ghpvc/?username=navin82005&label=Profile%20views&color=0e75b6&style=flat" alt="navin82005" />
+    </p>
+    <div align="right">Connect with me in <a href="https://www.linkedin.com/in/naveenn82005">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen82005/" height="30" width="40" />
+    </a>
+    </div>
+  </div>
         <h3 align="center" class="AboutMe">ABOUT ME</h3>
                ✍️ I am presently engaged in <b>Treasure Hunter Game;</b>
                 <br/>

@@ -64,6 +64,7 @@
     </a>
 </div>
 <hr />
+<div>
 <h3 align="center" class="LanguagesandTools">Git-Hub Stats</h3>
 <br />
 <div align="center">
@@ -82,3 +83,4 @@
 </div>
 <br />
 <br />
+</div>

@@ -17,6 +17,9 @@
                 ❤️ I love Programming cause <b>'It is the art of teaching a machine to perform tricks that only
                     exist in the mind.';</b>
     </div>
+    <h3>Connect with me in</h3>
+    <a href="https://www.linkedin.com/in/naveenn82005"></a>
+    <hr />
     <br />
     <br />
 <h3 align="center" class="LanguagesandTools">Languages and Tools</h3>

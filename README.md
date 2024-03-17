@@ -64,7 +64,7 @@
     </a>
 </div>
 <hr />
-<div>
+<div class="AboutMe">
 <h3 align="center">Git-Hub Stats</h3>
 <br />
 <div align="center">

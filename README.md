@@ -18,7 +18,7 @@
                     exist in the mind.';</b>
     </div>
     <h3>Connect with me in</h3>
-    <a href="https://www.linkedin.com/in/naveenn82005"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveen-p-r-15-09-2004-ttp/" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/naveenn82005"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveen-p-r-15-09-2004-ttp/" height="30" width="40" /></a>
     <hr />
     <br />
     <br />

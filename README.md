@@ -2,13 +2,13 @@
   <h1 align="center">Hai there 👋, Iam Naveen N</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=navin82005&label=Profile%20views&color=0e75b6&style=flat" alt="navin82005" /> </p>
         <h3 align="center" class="AboutMe">ABOUT ME</h3>
-               ✍️ I am presently engaged in <b>EduMatricsPro;</b>
+               ✍️ I am presently engaged in <b>Treasure Hunter Game;</b>
                 <br/>
                 <br />
-               📝 I am presently acquiring new skills about <b>Flutter;</b>
+               📝 I am presently acquiring new skills about <b>Java Game Development;</b>
                 <br />
                 <br />
-               🖇️ Information at your disposal <b>'React', Django;</b>
+               🖇️ Information at your disposal <b>'React', 'Django';</b>
                 <br />
                 <br />
                 📨 Contact Via Email(<b>navin82005@gmail.com</b>);

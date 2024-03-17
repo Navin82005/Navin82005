@@ -29,8 +29,6 @@
     <li>🌎 Personal Domain <a href="https://navin82005.github.io/portfolio/">Naveen82005</a></li>
 </div>
 <hr />
-<br />
-<br />
 <h3 align="center" class="LanguagesandTools">Languages and Tools</h3>
 <br />
 <div align="center" class="LanguagesandToolsDiv">
@@ -65,8 +63,8 @@
             src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
     </a>
 </div>
-<br />
-<br />
+<hr />
+<h3 align="center" class="LanguagesandTools">Git-Hub Stats</h3>
 <br />
 <div align="center">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"

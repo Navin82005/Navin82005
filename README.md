@@ -1,6 +1,6 @@
 <div class="about-div">
   <h1 align="center">Hai there 👋, Iam Naveen N</h1>
-  <p align="left">Profile visited by <img src="https://komarev.com/ghpvc/?username=navin82005&label=Profile%20views&color=0e75b6&style=flat" alt="navin82005" /> </p>
+  <p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=navin82005&label=Profile%20views&color=0e75b6&style=flat" alt="navin82005" /> <div align="right">Connect with me in <a href="https://www.linkedin.com/in/naveenn82005"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen82005/" height="30" width="40" /></a></p>
         <h3 align="center" class="AboutMe">ABOUT ME</h3>
                ✍️ I am presently engaged in <b>Treasure Hunter Game;</b>
                 <br/>
@@ -17,9 +17,6 @@
                 ❤️ I love Programming cause <b>'It is the art of teaching a machine to perform tricks that only
                     exist in the mind.';</b>
     </div>
-    <hr />
-    <h3>Connect with me in</h3>
-    <a href="https://www.linkedin.com/in/naveenn82005"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveen-p-r-15-09-2004-ttp/" height="30" width="40" /></a>
     <hr />
     <br />
     <br />

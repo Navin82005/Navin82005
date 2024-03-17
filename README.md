@@ -13,23 +13,23 @@
         </div>
     </div>
     <h3 align="center" class="AboutMe">ABOUT ME</h3>
-    ✍️ I am presently engaged in <b>Treasure Hunter Game;</b>
+    <li>✍️ I am presently engaged in <b>Treasure Hunter Game;</b></li>
     <br />
     <br />
-    📝 I am presently acquiring new skills about <b>Java Game Development;</b>
+    <li>📝 I am presently acquiring new skills about <b>Java Game Development;</b></li>
     <br />
     <br />
-    🖇️ Information at your disposal <b>'React', 'Django';</b>
+    <li>🖇️ Information at your disposal <b>'React', 'Django';</b></li>
     <br />
     <br />
-    📨 Contact Via Email(<b>navin82005@gmail.com</b>);
+    <li>📨 Contact Via Email(<b>navin82005@gmail.com</b>);</li>
     <br />
     <br />
-    ❤️ I love Programming cause <b>'It is the art of teaching a machine to perform tricks that only
-        exist in the mind.';</b>
+    <li>❤️ I love Programming cause <b>'It is the art of teaching a machine to perform tricks that only
+        exist in the mind.';</b></li>
     <br />
     <br />
-    🌎 Personal Domain <a href="https://navin82005.github.io/portfolio/">Naveen82005</a>
+    <li>🌎 Personal Domain <a href="https://navin82005.github.io/portfolio/">Naveen82005</a></li>
 </div>
 <hr />
 <br />

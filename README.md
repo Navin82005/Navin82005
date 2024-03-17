@@ -18,7 +18,7 @@
                     exist in the mind.';</b>
     </div>
     <h3>Connect with me in</h3>
-    <a href="https://www.linkedin.com/in/naveenn82005"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/naveenn82005"><i class="fa-brands fa-linkedin"></i><!--<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn"/>--></a>
     <hr />
     <br />
     <br />

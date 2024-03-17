@@ -1,5 +1,4 @@
 <div class="about-div">
-  <script src="https://kit.fontawesome.com/9891bbb6e0.js" crossorigin="anonymous"></script>
   <h1 align="center">Hai there 👋, Iam Naveen N</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=navin82005&label=Profile%20views&color=0e75b6&style=flat" alt="navin82005" /> </p>
         <h3 align="center" class="AboutMe">ABOUT ME</h3>
@@ -19,7 +18,7 @@
                     exist in the mind.';</b>
     </div>
     <h3>Connect with me in</h3>
-    <a href="https://www.linkedin.com/in/naveenn82005"><i class="fa-brands fa-linkedin"></i><!--<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn"/>--></a>
+    <a href="https://www.linkedin.com/in/naveenn82005"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveen-p-r-15-09-2004-ttp/" height="30" width="40" /></a>
     <hr />
     <br />
     <br />

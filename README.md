@@ -69,7 +69,6 @@
 <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"
         alt="navin82005" />
-<hr />
 </div>
 <!-- <div align="center">
     <img align="left"
@@ -80,6 +79,7 @@
 <div align="center">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&" alt="navin82005" />
 </div>
+<hr />
 <br />
 <br />
 </div>

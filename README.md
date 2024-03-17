@@ -20,7 +20,6 @@
     <h3>Connect with me in</h3>
     <hr />
     <a href="https://www.linkedin.com/in/naveenn82005"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn"/></a>
-    <hr />
     <br />
     <br />
 <h3 align="center" class="LanguagesandTools">Languages and Tools</h3>

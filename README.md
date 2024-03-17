@@ -25,7 +25,7 @@
     <li>❤️ I love Programming cause <b>'It is the art of teaching a machine to perform tricks that only
             exist in the mind.';</b></li>
     <br />
-    <li>🌎 Personal Domain <a target="_blank" href="https://navin82005.github.io/portfolio/">Naveen82005</a></li>
+    <li>🌎 Personal Domain <a target="_blank" href="https://naveen82005.netlify.app/">Naveen82005</a></li>
 </div>
 <hr />
 <h3 align="center" class="LanguagesandTools">Languages and Tools</h3>

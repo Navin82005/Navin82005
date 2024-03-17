@@ -1,3 +1,5 @@
+![Banner Image](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/assets/agpr.gif)
+
 <div class="about-div">
     <h1 align="center">Hai there 👋, Iam Naveen N</h1>
     <div>

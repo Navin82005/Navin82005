@@ -69,10 +69,12 @@
 <div align="center">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"
             alt="navin82005" /></p>
-    <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Navin82005&show_icons=true&locale=en&layout=compact" alt="Navin82005" /></p>
 </div>
-<div >
-    <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&" alt="navin82005" /></p>
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Navin82005&show_icons=true&locale=en&layout=compact" alt="Navin82005" /></p>
+</div>
+<div align="center">
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&" alt="navin82005" /></p>
 </div>
 <br />
 <br />

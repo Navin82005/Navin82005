@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/assets/agpr.gif)
+![Banner Image](https://github.com/Navin82005/Navin82005/blob/main/github-banner.png)
 
 <div class="about-div">
     <h1 align="center">Hai there 👋, Iam Naveen N</h1>

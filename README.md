@@ -1,4 +1,5 @@
 <div class="about-div">
+  <script src="https://kit.fontawesome.com/9891bbb6e0.js" crossorigin="anonymous"></script>
   <h1 align="center">Hai there 👋, Iam Naveen N</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=navin82005&label=Profile%20views&color=0e75b6&style=flat" alt="navin82005" /> </p>
         <h3 align="center" class="AboutMe">ABOUT ME</h3>

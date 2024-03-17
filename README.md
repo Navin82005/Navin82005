@@ -63,23 +63,23 @@
     </a>
 </div>
 <hr />
-<div class="AboutMe">
-<h3 align="center">Git-Hub Stats</h3>
-<br />
-<div align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"
-        alt="navin82005" />
-</div>
-<!-- <div align="center">
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Navin82005&show_icons=true&locale=en&layout=compact"
-        alt="Navin82005" />
-</div> -->
-<hr />
-<div align="center">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&" alt="navin82005" />
-    <hr align="left" />
-</div>
-<br />
-<br />
+<div class="AboutMe" style="display: block !important;">
+    <h3 align="center">Git-Hub Stats</h3>
+    <br />
+    <div align="center">
+        <img style="display: block;" align="left" src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"
+            alt="navin82005" />
+    </div>
+    <div style="display: block;" align="center">
+        <img align="left"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=Navin82005&show_icons=true&locale=en&layout=compact"
+            alt="Navin82005" />
+    </div>
+    <hr />
+    <div align="center" style="display: block;">
+        <img align="left" style="display: block !important;" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&" alt="navin82005" />
+        <hr align="left" />
+    </div>
+    <br />
+    <br />
 </div>

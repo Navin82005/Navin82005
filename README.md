@@ -19,7 +19,7 @@
     </div>
     <h3>Connect with me in</h3>
     <hr />
-    <a href="https://www.linkedin.com/in/naveenn82005"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw0yU83em-ZuWe_9Vzha7CNE&ust=1710729542226000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICb4Kei-oQDFQAAAAAdAAAAABAE" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/naveenn82005"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn"/></a>
     <hr />
     <br />
     <br />

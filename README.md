@@ -65,7 +65,7 @@
 </div>
 <hr />
 <div>
-<h3 align="center" class="LanguagesandTools">Git-Hub Stats</h3>
+<h3 align="center">Git-Hub Stats</h3>
 <br />
 <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"

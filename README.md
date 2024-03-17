@@ -58,10 +58,10 @@
     <br />
     <br />
     <div align="center">
-        <p><img align="center"
+        <p><img align="left"
                 src="https://github-readme-stats.vercel.app/api?username=navin82005&show_icons=true&locale=en"
                 alt="navin82005" /></p>
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&"
+            <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&"
                 alt="navin82005" />
     </div>
     <br />

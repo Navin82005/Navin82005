@@ -76,7 +76,7 @@
     <br />
     <br />
     <br />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&" alt="navin82005" />
+    <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=navin82005&" alt="navin82005" /></p>
 </div>
 <br />
 <br />

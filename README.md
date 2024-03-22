@@ -60,6 +60,6 @@
 <hr />
 <h3 align="center">Streaks & Contributions</h3>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=navin82005&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
+    <img src="https://streak-stats.demolab.com?user=Navin82005&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=4"
         height="220" alt="streak graph" />
 </div>

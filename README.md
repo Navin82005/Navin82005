@@ -1,7 +1,7 @@
 ![Banner Image](https://github.com/Navin82005/Navin82005/blob/main/github-profile-banner.png)
 <div class="about-div">
     <h1 align="center">Hai there 👋, Iam Naveen N</h1>
-    <div>
+<!--     <div>
         <p align="left">
             <img align="left"
                 src="https://komarev.com/ghpvc/?username=navin82005&label=Profile%20views&color=0e75b6&style=flat"
@@ -12,7 +12,7 @@
                     alt="https://www.linkedin.com/in/naveen82005/" height="20" width="30" />
             </a>
         </div>
-    </div>
+    </div> -->
     <div align="center">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />

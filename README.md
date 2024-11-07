@@ -29,7 +29,7 @@
     <br />
     <li>📝 I am presently acquiring new skills about <b>Flutter App Development;</b></li>
     <br />
-    <li>🖇️ Information at your disposal <b>'React', 'Django';</b></li>
+    <li>🖇️ Information at your disposal <b>'React', 'Django', 'Flutter';</b></li>
     <br />
     <li>📨 Contact Via Email(<b>navin82005@gmail.com</b>);</li>
     <br />

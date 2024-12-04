@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
     </div>
     <h3 align="center" class="AboutMe">ABOUT ME</h3>
-    <li>✍️ I am presently engaged in <b>[Drug-Inventory](https://github.com/Nitin1112/Drug-inventory);</b></li>
+    <li>✍️ I am presently engaged in <b>[Drug-Inventory](https://github.com/Nitin1112/Drug-inventory) ;</b></li>
     <br />
     <li>📝 I am presently acquiring new skills about <b>Flutter App Development;</b></li>
     <br />

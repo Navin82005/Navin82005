@@ -38,6 +38,7 @@
     <br />
     <li>🌎 Personal Domain <a target="_blank" href="https://naveen82005.netlify.app/">Naveen82005</a></li>
 </div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Navin82005" alt="ranjiths-17904" /></a> </p>
 <hr />
 <h3 align="center" class="LanguagesandTools">Languages and Tools</h3>
 <br />

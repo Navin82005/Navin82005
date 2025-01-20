@@ -33,11 +33,13 @@
     <br />
     <li>📨 Contact Via Email(<b>navin82005@gmail.com</b>);</li>
     <br />
-    <li>❤️ I love Programming cause <b>'It is the art of teaching a machine to perform tricks that only
-            exist in the mind.';</b></li>
+    <li>❤️ I love Programming cause <b>`It is the art of teaching a machine to perform tricks that only
+            exist in the mind.`;</b></li>
     <br />
     <li>🌎 Personal Domain <a target="_blank" href="https://naveen82005.netlify.app/">Naveen82005</a></li>
 </div>
+
+<hr />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Navin82005" alt="ranjiths-17904" /></a> </p>
 <hr />
 <h3 align="center" class="LanguagesandTools">Languages and Tools</h3>

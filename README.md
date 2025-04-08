@@ -40,7 +40,7 @@
 </div>
 
 <hr />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Navin82005" alt="ranjiths-17904" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Navin82005" alt="Navin82005" /></a> </p>
 <hr />
 <h3 align="center" class="LanguagesandTools">Languages and Tools</h3>
 <br />

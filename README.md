@@ -1,6 +1,6 @@
 <!-- ![Banner Image](https://github.com/Navin82005/Navin82005/blob/main/github-profile-banner.png) -->
+![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <div class="about-div">
-    ![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
     <h1 align="center">Hai there 👋, Iam Naveen N son of Poongodi</h1>
 <!--     <div>
         <p align="left">

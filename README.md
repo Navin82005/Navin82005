@@ -1,5 +1,6 @@
 <!-- ![Banner Image](https://github.com/Navin82005/Navin82005/blob/main/github-profile-banner.png) -->
 ![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+<img src="https://komarev.com/ghpvc/?username=yoursrijit&label=Profile%20views&color=0e75b6&style=flat" alt="yoursrijit" />
 <div class="about-div">
     <h1 align="center">Hai there 👋, Iam Naveen N son of Poongodi</h1>
 <!--     <div>
